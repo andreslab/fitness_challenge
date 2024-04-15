@@ -57,6 +57,6 @@ Now that you have successfully run the app, let's modify it.
 
 ## Result
 
-`![Descripción](screenshot_1.png)`
+![Descripción](./screenshot_1.png)
 
-`![Descripción](screenshot_2.png)`
+![Descripción](./screenshot_2.png)
